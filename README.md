@@ -5,4 +5,4 @@ Ever needed to get a list of all Windows supported countries in your C# app? Wit
 
 **This is a code sample to support an blog article at [ucodia.io][1]**
 
-[1]: blog.ucodia.io/csharp-list-windows-countries/
+[1]: http://blog.ucodia.io/csharp-list-windows-countries/
