@@ -155,4 +155,4 @@ You can get the WPF demo project from the [code folder][7].
 [4]: http://msdn.microsoft.com/en-us/library/dd317826%28v=vs.85%29.aspx
 [5]: http://msdn.microsoft.com/en-us/library/dd318099%28v=vs.85%29.aspx
 [6]: http://msdn.microsoft.com/en-us/library/system.globalization.regioninfo.aspx
-[7]: /tree/master/code
+[7]: code
