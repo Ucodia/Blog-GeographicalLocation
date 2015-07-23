@@ -1,5 +1,6 @@
 Get a list of Windows supported countries with C#
 ==
+*Written on the 11th of September 2011.*
 
 When developing the [LocaliZune][1] settings editor, one of the challenge was to display a full list of Windows countries to the user. My first approach to meet this challenge was to retrieve a list of countries using the [CultureInfo.GetCultures()][2] method and then get all the country information following [this example][3]. But I quickly realised that a lot of countries were missing from the list and that it does not matched the country list from the Windows control panel location setting. I investigated more deeply on how I could provide the full list of countries supported by the system.
 
